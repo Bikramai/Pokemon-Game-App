@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-WTF
+Flask-Login
+requests
+python-dotenv
+flask-restful
+Flask-RESTful
+Flask-JWT-Extended
+flask-bcrypt
